@@ -1,0 +1,15 @@
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Shapefiles and geopackage files
+Morocco-Counties-shapefile.zip
+all_quarters_combined.gpkg
+all_quarters_differences.gpkg
+
+# Data folders and files
+MoroccoData/
+data/*.zip
+data/Morocco/
+
+# Jupyter folder
+jupyter/

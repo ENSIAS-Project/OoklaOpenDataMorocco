@@ -1,0 +1,8 @@
+geopandas
+matplotlib
+pandas
+numpy
+requests
+tqdm
+shapely
+adjustText
